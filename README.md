@@ -1,4 +1,4 @@
-朱运帅-Java后台-简历
+JavaWeb后台-朱运帅
 =========================
 [TOC]
 
@@ -6,7 +6,6 @@
 -------------------------
 - 手 机：18617360702
 - Email：rungit@outlook.com
-- 微 信：rungit1996
 
 个人信息
 -------------------------
@@ -77,7 +76,7 @@ __项目名称：__OA办公系统
 
 __开发环境：__Eclipse + Tomcat7 + MySQL + SVN
 
-__软件架构：__Spring3 + Hibernate + Struts2 + easyui + shiro
+__软件架构：__Spring3 + Hibernate + Struts2 + easyui
 
 __项目描述：__原系统效率极低，为了解决这些问题，让公司更好更快地发展，我们对其后台进行了升级。
 
@@ -86,8 +85,6 @@ __技术描述：__
 　　使用struts配置校验实现后台验证数据，以及文件下载
 
 　　利用poi实现数据输出到Excel中，并在线下载打印，同时防止文件并发打印
-
-　　利用shiro实现用户权限管理
 
 __责任描述：__
 
@@ -100,7 +97,7 @@ __责任描述：__
 -------------------------
 
 
-__开源框架__：Spring、Spring MVC、MyBatis、Struts2、Hibernate、Dubbo/Zookeeper</br>
+__开源框架__：Spring、Spring MVC、MyBatis、Hibernate、Dubbo/Zookeeper</br>
 
 __项目管理or构建工具__：Eclipse、Sublime3/EditPlus、Maven、SVN/Git</br>
 
