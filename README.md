@@ -1,4 +1,4 @@
-<center>JavaWeb后台-朱运帅-简历</center>
+JavaWeb后台-朱运帅-简历
 =========================
 [TOC]
 
