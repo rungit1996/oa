@@ -6,7 +6,6 @@ JavaWeb后台-朱运帅
 -------------------------
 - __手&nbsp;&nbsp;机&nbsp;&nbsp;：__ 18617360702
 - __Email&nbsp;&nbsp;：__ rungit@outlook.com
-- __Github：__  [https://github.com/zhuyunshuai/oa](https://github.com/zhuyunshuai/oa)
 
 个人信息
 -------------------------
