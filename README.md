@@ -1,11 +1,12 @@
-JavaWeb后台-朱运帅-简历
+JavaWeb后台-朱运帅
 =========================
 [TOC]
 
 联系方式
 -------------------------
-- 手 机：18617360702
-- email：rungit@outlook.com
+- __手&nbsp;&nbsp;机&nbsp;&nbsp;：__ 18617360702
+- __Email&nbsp;&nbsp;：__ rungit@outlook.com
+- __Github：__  [https://github.com/zhuyunshuai/oa](https://github.com/zhuyunshuai/oa)
 
 个人信息
 -------------------------
@@ -27,9 +28,9 @@ JavaWeb后台-朱运帅-简历
 
 __项目名称：__ 网上购物商城
 
-__开发环境：__ Eclipse + Tomcat7 + MySQL + SVN
+__开发环境：__ Eclipse + Tomcat7 + MySQL + SVN + CentOS
 
-__软件架构：__ SpringMVC + Spring + MyBatis + Maven + ActiveMQ + CentOS +Solr + Redis + Nginx
+__软件架构：__ SpringMVC + Spring + MyBatis + Maven + ActiveMQ + Redis + Nginx
 
 __项目描述：__ 该平台包括面向用户的前台页面和面向客户员工的后台管理系统。
 
@@ -96,10 +97,8 @@ __责任描述：__
 
 　　对系统进行了一些简单的代码重构优化，如利用泛型技术对DAO层进行重构以提高代码重用度
 
-
 技术清单
 -------------------------
-
 
 __开源框架__：Spring、Spring MVC、MyBatis、Hibernate、Dubbo/Zookeeper</br>
 
